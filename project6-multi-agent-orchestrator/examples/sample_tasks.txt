@@ -1,0 +1,37 @@
+# Sample Tasks for Multi-Agent Orchestrator
+
+## Research & Analysis Tasks
+1. Research the latest trends in quantum computing and provide a comprehensive analysis
+2. Investigate the environmental impact of blockchain technology
+3. Study the effectiveness of different machine learning algorithms for time series prediction
+4. Research cybersecurity best practices for small businesses
+
+## Code Development Tasks
+5. Write a Python script that analyzes CSV files and generates statistical reports
+6. Create a JavaScript function that validates email addresses and phone numbers
+7. Develop a simple REST API for a todo list application
+8. Write a Python program that scrapes weather data and stores it in a database
+
+## Documentation Tasks
+9. Create comprehensive documentation for a weather forecasting API
+10. Write a user guide for a personal finance tracking application
+11. Generate API documentation for a customer support system
+12. Create a technical specification document for a multi-agent system
+
+## Combined Complex Tasks
+13. Research Python web frameworks, compare their features, and write sample code for each
+14. Analyze customer feedback data, identify trends, and create a report with recommendations
+15. Study best practices for RESTful APIs, write example code, and document the implementation
+16. Research data visualization techniques, create sample charts with Python, and document the process
+
+## Business Intelligence Tasks
+17. Analyze market trends in the AI industry and create an investment recommendation report
+18. Research competitor products, compare features, and suggest improvements
+19. Study customer churn patterns and develop retention strategies
+20. Analyze website analytics data and recommend optimization strategies
+
+## Example Usage:
+python orchestrator.py "Research the benefits of microservices architecture and create a comparison report"
+python orchestrator.py "Write a Python script to automate daily backups and document how to use it"
+python orchestrator.py "Analyze user engagement metrics and suggest three improvements"
+
